@@ -5,7 +5,7 @@ blending a physics prediction with a noisy sensor.
 
 ![plot](plot.png)
 
-## the filter
+## The filter
 
 The filter consists of this line:
 
