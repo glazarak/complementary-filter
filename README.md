@@ -19,7 +19,7 @@ I added a sensor, but the sensor is not accurate either, and every reading
 has its own error. `a` sets what percentage of the estimate comes from physics
 and what percentage from the sensor.
 
-## parameters
+## Parameters
 
 | name | value | meaning |
 |---|---|---|
@@ -31,7 +31,7 @@ and what percentage from the sensor.
 | velocity_bias | 0.1 | accelerometer error, m/s |
 | a | 0.9 | percentage of the estimate taken from physics |
 
-## results
+## Results
 
 | a | smoothness | leftover drift |
 |---|---|---|
